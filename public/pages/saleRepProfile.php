@@ -1,0 +1,1 @@
+<img src="../dist/images/user/04.jpg" class="img-circle " alt="User">

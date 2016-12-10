@@ -1,0 +1,52 @@
+
+.margin10px {
+	margin:10px;
+}
+
+.mar-bot-10px {
+	margin-bottom:10px;
+}
+
+.mar-top-20px {
+	margin-top:20px;
+}
+
+.mar-top-25px {
+	margin-top: 25px;
+}
+
+.pad-0px {
+	padding:0px !important;
+}
+
+.pad-5px {
+	padding:5px;
+}
+
+.pad-15px {
+	padding:15px;
+}
+
+.font-s-25px {
+	font-size:25px;
+} 
+
+.font-s-20px {
+	font-size:20px;
+}
+
+.cursor-pointer {
+	cursor:pointer;
+}
+
+.panel-body-custom {
+	    padding: 20px 10px !important;
+}
+
+.pos-relative {
+	position:relative;
+}
+
+.Width-100per {
+	width:100%;
+}

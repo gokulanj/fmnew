@@ -1,0 +1,22 @@
+.adherenceTab > li > a{
+	color:#666;
+	border-radius:0px;
+}
+
+.adherenceTab  li.active > a{
+	background-color:#666 !important;
+	color:#fff !important;
+}
+.adherenceTab {
+	border-bottom: 4px solid #666;
+}
+
+.download-list {
+	    margin-right: 16px;
+    margin-top: -50px;
+}
+
+.download-list button {
+	    padding: 6px 9px;
+}
+   
